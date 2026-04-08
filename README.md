@@ -78,6 +78,18 @@
 <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
 </p>
 
+
+<br>
+
+## 🔥 Current Streak & Contribution
+
+<div align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=hamdhan2003&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak" />
+</div>
+
+<br>
+
+
 ## 🚀 Projects
 
 - 🚗 **Flexify Enterprises**
@@ -86,9 +98,26 @@
 - 🧸 **Griffindo Toys System**
 - 🎬 **Quiet Attic Films Platform**
 
-## 📈 Activity Graph
+## 📈 My GitHub Activity Graph
 
-[![My github activity graph]()
+![Hamdhans GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hamdhan2003)
+
+<br>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hamdhan047/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.facebook.com/mohammed.hamdhan.98499" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/m_hamdhu__/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>&nbsp;&nbsp;
+  <a href="mailto:mohamed.hamdhan0047@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 <p align="center">
   ✨ Building modern, scalable systems with clean code ✨
