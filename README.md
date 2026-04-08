@@ -84,7 +84,7 @@
 ## 🚀 Projects
 
 - 🚗 **Flexify Enterprises**
-- 📱 **Wperfume store**
+- 📱 **perfume store**
 - 🌐 **Hospital  management**
 - 🧸 **Griffindo Toys System**
 - 🎬 **Quiet Attic Films Platform**
