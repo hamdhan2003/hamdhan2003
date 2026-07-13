@@ -5,11 +5,14 @@
 <h1 align="center">Hi 👋🏻, I'm Hamdhan</h1>
 
 <p align="center">
-🚀 Full Stack Developer <br>
+🚀 Full Stack Developer & AI Engineer <br>
 💻 Software Engineering Student <br>
-⚡ Turning ideas into real-world systems
+⚡ Turning ideas into real-world systems with AI-assisted workflows
 </p>
 
+
+
+  
 <p align="center">
   <a href="https://www.linkedin.com/in/hamdhan047/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -27,16 +30,19 @@
 
 ---
 
-- Building scalable full-stack applications
-- Strengthening Data Structures & Algorithms
-- Writing clean and maintainable code
-- Improving backend architecture skills
+- 🤖 **Integrating AI and LLMs** into modern web applications
+- 🌐 **Building scalable full-stack apps** and CMS-driven sites
+- 🧠 **Strengthening Data Structures**, Algorithms, and Machine Learning
+- ⚡ **Writing clean, maintainable code** focused on practical problem-solving
 
 ---
+
 
 ## 🛠 Languages & Tools
 
 <p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000"/>&nbsp;
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>&nbsp;
@@ -92,11 +98,13 @@
 
 ## 🚀 Projects
 
-- 🚗 **Flexify Enterprises**
-- 📱 **perfume store**
-- 🌐 **Hospital  management**
-- 🧸 **Griffindo Toys System**
-- 🎬 **Quiet Attic Films Platform**
+## 🚀 Projects
+
+- 🚗 **Flexify Enterprises:** Developed vehicle repair, sales, and rental platforms with a focus on UI/UX and client acquisition.
+- 📱 **Perfume Store Marketplace:** Built a full-stack e-commerce platform featuring complex payment lifecycles and role-based authentication.
+- 🌐 **Hospital Management System:** Designed a GUI-based desktop application for patient records, appointments, and backend data handling.
+- 🧸 **Griffindo Toys System:** End-to-end software solution optimizing business operations and digital presence.
+- 🎬 **Quiet Attic Films Platform:** Full-stack digital solution for content and project management.
 
 ## 📈 My GitHub Activity Graph
 
